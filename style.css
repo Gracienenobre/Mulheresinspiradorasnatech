@@ -1,0 +1,16 @@
+body, html {
+  
+  margin: auto;
+  border: solid 5px cyan;
+  text-align: center;
+  color: midnightblue;
+  background-image: url(capa.png)
+  }
+   
+footer{
+  clear: both;
+  text-align: center;
+}
+
+  
+  
